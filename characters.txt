@@ -1,3 +1,5 @@
 characters 
 "rabbit"
 "tortoise"
+"lion"
+"fox"
